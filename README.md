@@ -31,7 +31,7 @@ npm start
 
 Open your browser and go to http://localhost:3000 to view the calculator.
 
-Usage
+## Usage
 
 Digit Buttons: Click the digit buttons (0-9) to enter numbers.
 Operation Buttons: Click the operation buttons (+, -, *, ÷) to perform calculations.
@@ -39,7 +39,7 @@ Clear: Click the "AC" button to clear the current input.
 Delete: Click the "DEL" button to remove the last digit.
 Equals: Click the "=" button to calculate the result.
 
-Code Overview
+## Code Overview
 
 App.js: Contains the main logic for the calculator, including state management and rendering.
 DigitButton.js: Defines the button component for digit inputs.
